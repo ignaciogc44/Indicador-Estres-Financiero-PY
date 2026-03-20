@@ -17,6 +17,7 @@ Thumbs.db
 # Temporary or backup files
 *~
 *.tmp
+~$*.xlsx
 
 # Local-only working files
 Datos Modelo 2 - copia.xlsx
