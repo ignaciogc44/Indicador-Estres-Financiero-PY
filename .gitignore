@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+
+# Temporary or backup files
+*~
+*.tmp
+
+# Local-only working files
+Datos Modelo 2 - copia.xlsx
+Datos Modelo 2.xlsx
+Datos indicador.xlsx
+Indicador estrés financiero.xlsx
+DatosLogit.xlsx
