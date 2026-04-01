@@ -38,8 +38,28 @@ Instalar dependencias con:
 pip install -r requirements.txt
 ```
 
+
 ## Ejecución
 
 Abrir [Indicador_estres.ipynb](Indicador_estres.ipynb) en Jupyter o en Google Colab y ejecutá las celdas en orden.
+
+## Diccionario de Variables
+
+i = Tasa de interés nominal
+Incremento M3 = Incremento mensual del M3
+EMAE = Estimador Mensual de Actividad Económica
+DF = Déficit fiscal
+TCR = Tipo de cambio real
+TCR-M = Tipo de cambio promedio del mes - Promedio histórico
+TCR-M-1 = TCR-M en t-1
+DCC = Déficit de Cuenta Corriente
+DCC-1 = Déficit de Cuenta Corriente en t-1
+IPMP = Índice de Precios de las materias primas
+Imp = Importaciones en millones de dólares
+Reservas = Reservas brutas del BCRA en millones de dólares
+Incremento reservas = Variación porcentual anual de las reservas
+Res/Imp = Reservas/Importaciones
+Deuda ext = Deuda externa en millones de dólares
+
 
 Si se ejecuta localmente, el notebook intenta leer `Datos Modelo.xlsx` desde esta carpeta. En Colab, si el archivo no está disponible, permite cargarlo manualmente.
